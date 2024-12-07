@@ -1,0 +1,4 @@
+.employee-portal-container {
+    display: flex;
+    flex-direction: column;
+}
